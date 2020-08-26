@@ -818,6 +818,7 @@ body{
 @media(max-width:1250px){
     .banner-heading{
         font-size:8rem;
+        margin-top:20rem
     }
 
     .banner-btn{
